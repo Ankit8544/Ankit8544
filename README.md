@@ -89,6 +89,6 @@ Pursuing **Data Science** through online learning, specializing in:
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration on projects related to **Data Analytics**, **Machine Learning**, or **Software Development**!
+Feel free to explore my repositories and connect with me for collaboration on projects related to **Data Analytics**, **Machine Learning**!
 
 ---
